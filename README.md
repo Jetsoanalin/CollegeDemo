@@ -1,4 +1,4 @@
-###Saraswati College Blockchain Demo
+# Saraswati College Blockchain Demo
 
 
 - What is Solidity
@@ -6,20 +6,20 @@
 
 
 # Blocklogy EduTech
-######Demo by Jetso Analin - Blockchain Developer
+###### Demo by Jetso Analin - Blockchain Developer
 
-<center>![](https://lh3.googleusercontent.com/QlQqejAQbV6b1oVX5ps2gG9QNROpAAGqnWLzTtA3iCSflBQ5uLprpOl2qdXO3WwHsUg) </center>
-
-
+<center> <img src="https://lh3.googleusercontent.com/QlQqejAQbV6b1oVX5ps2gG9QNROpAAGqnWLzTtA3iCSflBQ5uLprpOl2qdXO3WwHsUg" alt="Blocklogy"> </center>
 
 
-###What is Solidity
+
+
+### What is Solidity
                 
 ---
 
 Solidity is the main programming language for writing smart contracts for the Ethereum blockchain. It is a contract-oriented language, which means that smart contracts are responsible for storing all of the programming logic that transacts with the blockchain. It's a high-level programming language that looks a lot like JavaScript, Python, and C++. It's designed to run on the Ethereum Virtual Machine (EVM), which is hosted on Ethereum Nodes that are connected to the blockchain. It is statically typed, and supports inheritance, libraries, and more! In short, it has all the capability that you need in order build industrial strength blockchain applications.
 
-#####Remix Solidity IDE
+##### Remix Solidity IDE
 We're going to use Remix to write all of the code in this tutorial. Remix is a browser-based IDE that allows you to write, compile, deploy smart contracts! It has a lot of nice features like persistent file storage! We'll use Remix so that we don't have to download any developer tools or install anything to get started. Head on over to Remix in a new tab in order to follow along with this tutorial.
 
 Let's start by creating a new file to write some Solidity code. You can do this in the file browser on the left hand side of the screen.
@@ -108,3 +108,10 @@ Now let's update the value with the ```set()``` function. Add a new value inside
 
 Blockchain Transaction History
 You might have noticed this transaction window below the text editor. This is a complete list of all the transactions on this virtual blockchain. Remember, the Etherum blockchain is made up of bundles of records called "blocks" which are "chained together" to make up the public ledger. The basic units of all these blocks are transactions. You're seeing them listed here below. You can click the "down" arrow to see all details of the receipt.
+
+
+# For More info Download Blocklogy App now
+
+<a href= "https://play.google.com/store/apps/details?id=com.kmpards.blocklogy&hl=en_IN"><img width=50px height=50px src="https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F475500%252Ff018ae30-f60a-43b7-a3fd-d9acec74849e.png%252Ffull-fit-in__950x534.png?signature=T8lnjwshIlXsatf7BSwU-PhthKQ=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com" alt="Blocklogy"> </a>
+
+<a href= "https://play.google.com/store/apps/details?id=com.kmpards.blocklogy&hl=en_IN"><img width=50px height=50px src="https://cdn.iconscout.com/icon/free/png-512/app-store-461590.png" alt="Blocklogy"> </a>
