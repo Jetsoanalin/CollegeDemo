@@ -1,4 +1,4 @@
-# Saraswati College Blockchain Demo
+# College Blockchain Demo
 
 
 - What is Solidity
