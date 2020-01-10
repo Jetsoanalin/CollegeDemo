@@ -6,7 +6,7 @@
 
 
 # KubixSquare
-###### Demo by Jetso Analin - Blockchain Developer
+###### Demo by Jetso Analin - Founder KubixSquare 
 
 <center> <img src="https://media-exp1.licdn.com/dms/image/C510BAQE3ooJAAW6kVw/company-logo_200_200/0?e=2159024400&v=beta&t=Zuit2Kk4__915euiNhNSeCh-F_nZMrNaHmnb6vev1Gk" alt="KubixSquare"> </center>
 
